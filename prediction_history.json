@@ -1,0 +1,56 @@
+{
+    "predictions": [
+        {
+            "image_path": "/Users/chhenghai/Downloads/Com sci B/Final Project/Project Images/2FD9819F-C067-4F0D-9B26-7C3D0C2EC0A7.JPG",
+            "main_prediction": "cloudy",
+            "main_confidence": 86.97,
+            "second_label": "day",
+            "second_confidence": 13.03,
+            "summary": "Mostly cloudy (87.0%), with a bit of day (13.0%)."
+        },
+        {
+            "image_path": "/Users/chhenghai/Downloads/Com sci B/Final Project/Project Images/2FD9819F-C067-4F0D-9B26-7C3D0C2EC0A7.JPG",
+            "main_prediction": "cloudy",
+            "main_confidence": 86.97,
+            "second_label": "day",
+            "second_confidence": 13.03,
+            "summary": "Mostly cloudy (87.0%), with a bit of day (13.0%)."
+        },
+        {
+            "image_path": "/Users/chhenghai/Downloads/Com sci B/Final Project/Project Images/2FD9819F-C067-4F0D-9B26-7C3D0C2EC0A7.JPG",
+            "main_prediction": "cloudy",
+            "main_confidence": 86.97,
+            "second_label": "day",
+            "second_confidence": 13.03,
+            "summary": "Mostly cloudy (87.0%), with a bit of day (13.0%)."
+        },
+        {
+            "image_path": "/Users/chhenghai/Downloads/Com sci B/Final Project/Project Images/2FD9819F-C067-4F0D-9B26-7C3D0C2EC0A7.JPG",
+            "main_prediction": "cloudy",
+            "main_confidence": 88.1,
+            "second_label": "day",
+            "second_confidence": 11.9,
+            "summary": "Mostly cloudy (88.1%), with a bit of day (11.9%)."
+        }
+    ],
+    "weather_searches": [
+        {
+            "city": "hamburg",
+            "description": "Overcast clouds",
+            "temperature": 2.78,
+            "humidity": 96
+        },
+        {
+            "city": "phnom penh",
+            "description": "Broken clouds",
+            "temperature": 28.55,
+            "humidity": 64
+        },
+        {
+            "city": "phnom penh",
+            "description": "Overcast clouds",
+            "temperature": 25.9,
+            "humidity": 60
+        }
+    ]
+}
