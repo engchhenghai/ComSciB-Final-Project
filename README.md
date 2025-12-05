@@ -1,5 +1,6 @@
 # ComSciB-Final-Project
-Slide link: https://www.canva.com/design/DAG6Rs_RNwU/cqHwoieMGI5OZXVoof9eVA/edit
+Slide link: https://www.canva.com/design/DAG6Rs_RNwU/cqHwoieMGI5OZXVoof9eVA/edit.
+
 This is where i got my image datasets from:
 https://www.kaggle.com/datasets/pratik2901/multiclass-weather-dataset
 
